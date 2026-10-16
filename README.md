@@ -1,16 +1,16 @@
 # Java Bank 2.0
 
-Sistema bancário desenvolvido em Java como parte da minha jornada de aprendizado em programação, com foco em lógica de programação e Programação Orientada a Objetos (POO).
+Sistema bancário desenvolvido em Java a partir de um exercício prático do curso de Java da DIO, com o objetivo de aprofundar meus conhecimentos em lógica de programação e Programação Orientada a Objetos (POO).
 
-## Funcionalidades
+Aproveitei a proposta do exercício para desenvolver uma segunda versão do meu projeto bancário, adicionando novas funcionalidades e melhorando a organização do código.
 
-- Cadastro inicial do cliente
-- Consulta de saldo
-- Operações bancárias pelo menu interativo
-- Depósito e saque
-- Pagamento de boletos
-- Cálculo de cheque especial
-- Opção para encerrar o atendimento
+## Objetivos do projeto
+
+- Praticar lógica de programação e Java.
+- Aplicar conceitos de Programação Orientada a Objetos.
+- Melhorar a organização e a separação de responsabilidades entre classes.
+- Desenvolver um menu interativo para operações bancárias.
+- Consolidar os conhecimentos adquiridos durante meus estudos.
 
 ## Tecnologias utilizadas
 
@@ -18,27 +18,16 @@ Sistema bancário desenvolvido em Java como parte da minha jornada de aprendizad
 - IntelliJ IDEA
 - Git e GitHub
 
-## Conceitos praticados
+## Aprendizados
 
-- Classes e objetos
-- Encapsulamento
-- Métodos
-- Estruturas condicionais
-- Estruturas de repetição
-- `switch`
-- Organização de classes e packages
-- Entrada de dados com `Scanner`
+Este projeto faz parte da minha jornada de aprendizado em Java e representa a evolução de uma primeira implementação para uma versão mais organizada e funcional.
 
-## Objetivo
+## Próximos passos
 
-Praticar os fundamentos de Java, desenvolver o raciocínio lógico e melhorar a organização do código por meio da construção de um projeto prático.
-
-## Próximas melhorias
-
-- Implementar persistência de dados com banco de dados
-- Aprimorar as validações das operações bancárias
-- Evoluir o projeto utilizando Spring Boot
+- Aprimorar as validações e regras das operações bancárias.
+- Implementar persistência de dados com banco de dados.
+- Evoluir o projeto utilizando Spring Boot.
 
 ---
 
-**Projeto de estudos — Java Backend.**
+**Projeto de estudos desenvolvido durante minha formação em Java.**
